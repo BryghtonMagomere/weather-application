@@ -6,6 +6,11 @@
 }
 body{
     background: #222;
+    display: flex; /* Enable Flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Set the height to fill the viewport */
+    margin: 0; 
     
 }
 .card{
